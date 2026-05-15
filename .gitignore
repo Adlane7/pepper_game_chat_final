@@ -1,0 +1,15 @@
+logs/
+doc/
+venv/
+recordings/
+best_model.pth
+assets/
+camera/
+session_events/
+.env
+session_config.env
+*.pyc
+__pycache__/
+mic.out
+gpt_server.out
+session_log.csv

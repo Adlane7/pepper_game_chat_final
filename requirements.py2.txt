@@ -1,0 +1,14 @@
+# PepperChat Python2 Requirements
+numpy
+python-dotenv
+zmq
+
+# it doesnt provide the exact word ti doesn't provide feedback 
+# if you choose to start normale mode you have to enter multiple
+# to get the correct prompt here it understand like zero shot
+# more approriate it gives the user feedback how well they are doing
+# it is  personlised
+
+# Example NAOqi SDK setup. Replace paths with your local SDK install location.
+# export PYTHONPATH=${PYTHONPATH}:/path/to/pynaoqi-python2.7/lib/python2.7/site-packages
+# export QI_SDK_PREFIX=/path/to/pynaoqi-python2.7
